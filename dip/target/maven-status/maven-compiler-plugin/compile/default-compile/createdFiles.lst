@@ -1,0 +1,13 @@
+before\FileStorage.class
+before\CustomerWriter.class
+before\config\Configuration.class
+before\FileCustomerStorage.class
+before\CloudStorage.class
+before\Customer$CustomerBuilder.class
+before\config\Application.class
+before\SimpleCustomerValidator.class
+before\Customer.class
+before\CloudCustomerStorage.class
+before\CustomerReader.class
+before\CustomerService.class
+before\ThirdPartyWrapperCustomerValidator.class
